@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @coffeexpDev
 - 👀 I’m interested in BetterEd
 - 🌱 I’m currently learning Microfrontends
-<!--- - 💞️ I’m looking to collaborate on  --->
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
+<!--- - 💞️ I’m looking to collaborate on  --->
 <!--- - ⚡ Fun fact: ...--->
 
 <!---
