@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coffeexpDev
-- 👀 I’m interested in BetterEd
+<!--- - 👀 I’m interested in BetterEd --->
 - 🌱 I’m currently learning Microfrontends
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
